@@ -1,0 +1,1 @@
+/usr/bin/g++ -g -static-libgcc -static-libstdc++ -pthread -rdynamic CMakeFiles/FluidGamelan.dir/main.cpp.o -o FluidGamelan  -lfluidsynth 

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="Linux-g++"
+	BuildStamp="20240212-0737-Experimental"
+	Name="guts"
+	Generator="ctest-3.18.4"
+	CompilerName="/usr/bin/g++"
+	CompilerVersion="10.2.1"
+	OSName="Linux"
+	Hostname="guts"
+	OSRelease="5.10.0-21-amd64"
+	OSVersion="#1 SMP Debian 5.10.162-1 (2023-01-21)"
+	OSPlatform="x86_64"
+	Is64Bits="1"
+	VendorString="GenuineIntel"
+	VendorID="Intel Corporation"
+	FamilyID="6"
+	ModelID="142"
+	ProcessorCacheSize="6144"
+	NumberOfLogicalCPU="8"
+	NumberOfPhysicalCPU="4"
+	TotalVirtualMemory="0"
+	TotalPhysicalMemory="7770"
+	LogicalProcessorsPerPhysical="2"
+	ProcessorClockFrequency="2766.78"
+	>
+	<Testing>
+		<StartDateTime>Feb 12 14:37 WIB</StartDateTime>
+		<StartTestTime>1707723473</StartTestTime>
+		<TestList/>
+		<EndDateTime>Feb 12 14:37 WIB</EndDateTime>
+		<EndTestTime>1707723473</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>

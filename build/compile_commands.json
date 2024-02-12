@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/hanif/Documents/skripsi/FluidGamelan Rev 1/build",
+  "command": "/usr/bin/g++  -I/sf2list -g -o CMakeFiles/FluidGamelan.dir/main.cpp.o -c \"/home/hanif/Documents/skripsi/FluidGamelan Rev 1/main.cpp\"",
+  "file": "/home/hanif/Documents/skripsi/FluidGamelan Rev 1/main.cpp"
+}
+]
